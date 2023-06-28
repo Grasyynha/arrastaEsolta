@@ -1,6 +1,3 @@
-README - Drag and Drop Project
-Este é um projeto de arrastar e soltar (drag and drop) que permite ao usuário organizar elementos em diferentes áreas.
-
 <h1>Tecnologias Utilizadas</h1>
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -26,3 +23,13 @@ Após acessar o projeto, você poderá interagir com os elementos arrastáveis e
 
 <h1>Notas</h1>
 Este projeto foi desenvolvido como exemplo educacional e de demonstração, e pode ser modificado e adaptado de acordo com suas necessidades. Sinta-se à vontade para explorar o código e realizar alterações conforme desejado.
+
+
+
+![tela2](https://github.com/Grasyynha/arrastaEsolta/assets/45572377/a96eafaa-8871-43a4-a326-fc7a5c666121)
+
+
+
+
+
+![tela1](https://github.com/Grasyynha/arrastaEsolta/assets/45572377/f1f6396b-5ac8-4692-a734-ca775219b00f)
