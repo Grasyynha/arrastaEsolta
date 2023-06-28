@@ -24,6 +24,7 @@ Após acessar o projeto, você poderá interagir com os elementos arrastáveis e
 <h1>Notas</h1>
 Este projeto foi desenvolvido como exemplo educacional e de demonstração, e pode ser modificado e adaptado de acordo com suas necessidades. Sinta-se à vontade para explorar o código e realizar alterações conforme desejado.
 
+<br>
 
 
 ![tela2](https://github.com/Grasyynha/arrastaEsolta/assets/45572377/a96eafaa-8871-43a4-a326-fc7a5c666121)
